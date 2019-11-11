@@ -1,0 +1,17 @@
+header {
+  background: url(../images/hero_image.jpg) center / cover;
+  height: 60vh;
+  justify-content: center;
+  text-align: center;
+}
+
+header.h1 {
+  font-weight: bold;
+  color: darkmagenta;
+
+}
+
+slogan {
+  font-weight: lighter;
+  font-size: 1.6rem;
+}
